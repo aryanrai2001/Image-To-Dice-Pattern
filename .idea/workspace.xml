@@ -4,30 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced3187a-e17b-4fca-b93a-5d68d8a8c744" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Image To Dice Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Dice/DiceSheet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Dice/DiceSheet.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Image/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Image/1_Diced.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Image/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Image/2_Diced.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Image/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Image/3_Diced.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Image/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Image/4_Diced.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Image/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Image/5_Diced.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Image/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/Image/6_Diced.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dicer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Image.java" afterDir="false" />
+    <list default="true" id="ced3187a-e17b-4fca-b93a-5d68d8a8c744" name="Changes" comment="Added project to version control.">
+      <change afterPath="$PROJECT_DIR$/Previews/Preview 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Previews/Preview 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Previews/Preview 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Previews/Preview 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Previews/Preview 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Previews/Preview 6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Image/1_Diced.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Image/2_Diced.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Image/3_Diced.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Image/4_Diced.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Image/5_Diced.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Image/6_Diced.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,9 +77,19 @@
       <option name="presentableId" value="Default" />
       <updated>1674735839819</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added project to version control.">
+      <created>1674817773953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674817773953</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added project to version control." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added project to version control." />
   </component>
 </project>
