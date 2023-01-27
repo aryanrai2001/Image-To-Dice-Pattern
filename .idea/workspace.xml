@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ced3187a-e17b-4fca-b93a-5d68d8a8c744" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image To Dice Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Dice/DiceSheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Dice/DiceSheet.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Image/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Image/1_Diced.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Image/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Image/2_Diced.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Image/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Image/3_Diced.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Image/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Image/4_Diced.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Image/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Image/5_Diced.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Image/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Image/6_Diced.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dicer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Image.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KrbqJ7JlZefa4z3HWs8KwuV0fs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Others/IntelliJ/JavaProjects/Image To Dice Pattern",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Others\IntelliJ\JavaProjects\Image To Dice Pattern" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ced3187a-e17b-4fca-b93a-5d68d8a8c744" name="Changes" comment="" />
+      <created>1674735839819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674735839819</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
