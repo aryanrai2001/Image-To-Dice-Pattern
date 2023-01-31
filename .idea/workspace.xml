@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced3187a-e17b-4fca-b93a-5d68d8a8c744" name="Changes" comment="Added project to version control.">
-      <change afterPath="$PROJECT_DIR$/Previews/Preview 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Previews/Preview 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Previews/Preview 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Previews/Preview 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Previews/Preview 5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Previews/Preview 6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="ced3187a-e17b-4fca-b93a-5d68d8a8c744" name="Changes" comment="Readme Added.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/Image/1_Diced.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/Image/2_Diced.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/Image/3_Diced.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/Image/4_Diced.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/Image/5_Diced.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/Image/6_Diced.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dicer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dicer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Image.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,18 +37,18 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Others/IntelliJ/JavaProjects/Image To Dice Pattern",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Others/IntelliJ/JavaProjects/Image To Dice Pattern&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Others\IntelliJ\JavaProjects\Image To Dice Pattern" />
@@ -84,12 +73,31 @@
       <option name="project" value="LOCAL" />
       <updated>1674817773953</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Readme Added.">
+      <created>1674819137154</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674819137154</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added project to version control." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added project to version control." />
+    <MESSAGE value="Readme Added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme Added." />
   </component>
 </project>
